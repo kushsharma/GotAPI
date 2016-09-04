@@ -8,7 +8,7 @@ _Using Sqlite for serving data_
     python manage.py runserver
 ```
 ##Access API
-*Open your browser and go to 127.0.0.1:8000
+Open your browser and go to 127.0.0.1:8000
 
 ##Admin control panel at /admin**
 ```
