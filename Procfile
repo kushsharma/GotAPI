@@ -1,0 +1,1 @@
+web: gunicorn gotapi.wsgi --log-file -
